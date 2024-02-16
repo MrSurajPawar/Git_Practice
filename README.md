@@ -1,3 +1,3 @@
 # Git_Practice
 In this repository , I did some practice of Git and GitHub essential commands <br/>
-<b>Author</b> --> Suraj Pawar
+<b>Author</b> --> (Suraj Pawar)
